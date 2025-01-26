@@ -58,7 +58,7 @@ Olá! Sou Marcos Paulo, analista de sistemas e apaixonado por desenvolvimento de
 
 ## 📬 Contato
 - **LinkedIn:** [Marcos Paulo](#)
-- **Email:** marcos.paulo@email.com
+- **Email:** mpsdo96@gmail.com
 - **GitHub:** [mpsdo](https://github.com/mpsdo)
 
 ---
