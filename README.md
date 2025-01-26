@@ -62,5 +62,6 @@ Olá! Sou Marcos Paulo, analista de sistemas e apaixonado por desenvolvimento de
 - **GitHub:** [mpsdo](https://github.com/mpsdo)
 
 ---
-
+<!--
 Sinta-se à vontade para copiar este conteúdo, ajustá-lo e utilizá-lo no seu perfil do GitHub! Caso precise de mais personalizações, é só avisar! 😊
+-->
