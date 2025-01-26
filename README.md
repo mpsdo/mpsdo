@@ -3,12 +3,12 @@
 </h1>
 
 <h1 align="center">Marcos Paulo</h1>
-<h3 align="center">Desenvolvedor & Estudante de Ciências da Computação</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 ---
 
 ## 👋 Sobre Mim
-Olá! Sou Marcos Paulo, estudante de Ciências da Computação e apaixonado por desenvolvimento de software. Sempre estou explorando novas tecnologias e frameworks, buscando expandir meus conhecimentos. Tenho experiência com linguagens como C, C++ e JavaScript, além de interesse em bancos de dados e ferramentas modernas.
+Olá! Sou Marcos Paulo, analista de sistemas e apaixonado por desenvolvimento de software. Sempre estou explorando novas tecnologias e frameworks, buscando expandir meus conhecimentos. Tenho experiência com linguagens como C, C++, c# e JavaScript, além de interesse em bancos de dados e ferramentas modernas.
 
 ---
 
@@ -50,11 +50,11 @@ Olá! Sou Marcos Paulo, estudante de Ciências da Computação e apaixonado por 
 
 ---
 
-## 🚀 Projetos
+<!-- ## 🚀 Projetos
 1. [**Projeto X**](#) - Uma breve descrição do projeto e os desafios enfrentados.
 2. [**Projeto Y**](#) - Outro projeto relevante que mostra suas habilidades.
-
 ---
+-->
 
 ## 📬 Contato
 - **LinkedIn:** [Marcos Paulo](#)
