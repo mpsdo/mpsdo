@@ -40,8 +40,12 @@ Minha stack técnica principal, com ênfase em dados e backend:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpsdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpsdo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mpsdo&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpsdo&layout=compact&theme=dracula&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpsdo&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
