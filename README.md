@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Analista de Sistemas** com foco em **Desenvolvimento Backend**, possuindo um **sólido conhecimento em Bancos de Dados SQL**, que considero uma das minhas principais ferramentas de trabalho. Atuo na construção de soluções utilizando **C# e o ecossistema .NET**, priorizando a performance, a integridade dos dados e a eficiência dos sistemas.
+Sou um **Analista de Sistemas** com foco em **Desenvolvimento Backend**, gosto de trabalhar com Bancos de Dados SQL**, que considero uma das minhas principais ferramentas de trabalho. Atuo na construção de soluções utilizando **C# e o ecossistema .NET**, priorizando a performance, a integridade dos dados e a eficiência dos sistemas.
 
 - 🔭 Atento ao **Desenvolvimento Backend** e à otimização de fluxos de dados.
 - 🌱 Expandindo conhecimentos em **Arquitetura de Sistemas** e melhoria contínua de processos.
